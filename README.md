@@ -1,7 +1,7 @@
 # Flower Art
 Computer graphics artwork. It's raster graphics flower drawn by using Bézier curves in order to animate petals tearing off.
 
-# HOW TO USE
+# How to use
 Open flower.py file, download required modules and run the script. The resulting file will be saved with the name flower1.gif. There are several demo files named demo1 and demo2 which demonstrate artwork.
 
 # More about work
